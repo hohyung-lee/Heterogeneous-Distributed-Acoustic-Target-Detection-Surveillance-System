@@ -3,3 +3,6 @@
 *.tmp
 *.lck
 _autosave-*
+#auto_saved_files#
+fp-info-cache
+*-backups/
