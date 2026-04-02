@@ -1,0 +1,266 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "c953ec5a-66fb-49a2-9405-8a91f3363c4a")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 157.48 30.48)
+		(size 44.45 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2116068d-5a3b-4742-a9f6-a02e31f162ba")
+		(property "Sheetname" "ADS1274 ADC"
+			(at 157.48 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ADS1274 ADC.kicad_sch"
+			(at 157.48 55.1946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mixed_signal"
+				(path "/c953ec5a-66fb-49a2-9405-8a91f3363c4a"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 35.56 27.94)
+		(size 44.45 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3601638c-a68c-4f58-8e8f-d9be396065e6")
+		(property "Sheetname" "XC7A35T-1CSG325C (page 2)"
+			(at 35.56 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "XC6SLX9_2TQG144C.kicad_sch"
+			(at 35.56 53.9246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mixed_signal"
+				(path "/c953ec5a-66fb-49a2-9405-8a91f3363c4a"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 96.52 29.21)
+		(size 34.29 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7c50b289-41d2-4a90-bf03-38a7726ad617")
+		(property "Sheetname" "Ethernet PHY"
+			(at 96.52 28.4984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Ethernet PHY.kicad_sch"
+			(at 96.52 53.9246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mixed_signal"
+				(path "/c953ec5a-66fb-49a2-9405-8a91f3363c4a"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 153.67 74.93)
+		(size 53.34 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8b9e5f34-6965-48e9-b7f5-bf8047a6f11e")
+		(property "Sheetname" "IM68A130 MIC, THS4551IDGKT OPAMP"
+			(at 153.67 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "IM68A130 MIC, THS4551IDGKT OPAMP.kicad_sch"
+			(at 153.67 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mixed_signal"
+				(path "/c953ec5a-66fb-49a2-9405-8a91f3363c4a"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 35.56 69.85)
+		(size 45.72 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b65dfc86-a266-4da7-ba07-768cb11425b4")
+		(property "Sheetname" "converter"
+			(at 35.56 69.1384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "converter.kicad_sch"
+			(at 35.56 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mixed_signal"
+				(path "/c953ec5a-66fb-49a2-9405-8a91f3363c4a"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 91.44 69.85)
+		(size 45.72 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cd70e24f-dce9-4683-83e4-9639c08f402c")
+		(property "Sheetname" "Power input and Regulators_1"
+			(at 91.44 69.1384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power input and Regulators_1.kicad_sch"
+			(at 91.44 95.8346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mixed_signal"
+				(path "/c953ec5a-66fb-49a2-9405-8a91f3363c4a"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
